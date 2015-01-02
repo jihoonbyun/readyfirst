@@ -32,5 +32,5 @@
             android:configChanges="orientation|screenSize|keyboard"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
     </application>
-
+<!-- 용렬이형만안됨 -->
 </manifest>
